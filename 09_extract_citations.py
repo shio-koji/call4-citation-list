@@ -12,7 +12,7 @@
 
 出力は候補であって確定ではない。人が見て捨てる前提で、やや過剰に拾う側に倒してある。
 """
-import json, os, re, collections, csv
+import json, os, re, collections, csv, unicodedata
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 TARGETS = ["I0000090", "I0000111", "I0000120", "I0000159"]
@@ -50,6 +50,7 @@ CV_MARK = ["主要業績", "主な業績", "研究業績", "著書", "略歴", "
 
 
 def excluded(ctx):
+    ctx = unicodedata.normalize("NFKC", ctx)   # 甲Ａ５０ のような全角も揃える
     if any(w in ctx for w in SELF_REF):
         return True
     if any(w in ctx for w in CASE_REPORTERS) and re.search(r"\d+\s?巻", ctx):
@@ -61,8 +62,26 @@ def excluded(ctx):
     return False
 
 
-AUTHOR = re.compile(r"([一-龥々ぁ-んァ-ヶA-Za-z][一-龥々ぁ-んァ-ヶA-Za-z＝=・\u30fb]{1,24})\s*$")
+AUTHOR = re.compile(r"([一-龥々ァ-ヶA-Za-z][一-龥々ぁ-んァ-ヶA-Za-z＝=・\u30fb]{1,22})\s*$")
 NOISE_HEAD = re.compile(r"(?:参照|前掲|例えば|同|注|see|See)\s*[,、]?\s*$")
+# 著者名として明らかにおかしいもの
+PARTICLE_END = re.compile(r"[のはがをにでともへやからまでるたいうすきくこそ]$")
+AUTHOR_NG = ("発行", "という", "代表的", "である", "ついて", "における", "として",
+             "による", "された", "参照", "記載", "以下", "上記", "本件", "前記")
+
+
+def clean_author(h):
+    """引用の直前から著者名を取る。名前でないものは空にする。"""
+    h = NOISE_HEAD.sub("", h.strip())
+    h = re.split(r"[、,。」』）\)\]】]", h)[-1].strip()      # 直前の区切り以降だけ見る
+    m = AUTHOR.search(h)
+    if not m:
+        return ""
+    a = m.group(1).strip("・＝= ")
+    if (len(a) < 2 or len(a) > 20 or re.search(r"\d", a)
+            or any(w in a for w in AUTHOR_NG) or PARTICLE_END.search(a)):
+        return ""
+    return a
 
 
 def spans_for(text):
@@ -106,9 +125,7 @@ def spans_for(text):
         if in_cv(m.start()):
             kind = "執筆者の業績（引用ではない）"
         # 著者らしき部分と、出典（出版社・年・頁）を分けて取る
-        h = NOISE_HEAD.sub("", head.strip())
-        am = AUTHOR.search(h)
-        author = am.group(1).strip("・＝=") if am else ""
+        author = clean_author(head)
         sm = re.search(r"^[^。]{0,60}?(?:頁|ページ|\))", tail)
         source = (sm.group(0) if sm else tail[:40]).strip(" 、,。")
         out.append((kind, title, ctx, author, source, m.group(0)[0]))
