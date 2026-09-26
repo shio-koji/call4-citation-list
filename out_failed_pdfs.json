@@ -1,0 +1,211 @@
+[
+ {
+  "分類": "(空文字が返った)",
+  "case": "I0000031",
+  "doc": "007493",
+  "file_name": "【東京・二次】上告理由書第一分冊",
+  "url": "https://www.call4.jp/file/pdf/202603/af200a1213bf44999bd3d40d11e44980.pdf",
+  "bytes": 24086119,
+  "暗号化": false,
+  "ページ数": 110,
+  "PDF内の文字数(先頭10p)": 11958,
+  "判定": "テキスト層あり→OCR不要"
+ },
+ {
+  "分類": "PDFの解析に失敗しました: Secured pdf file are currently",
+  "case": "I0000031",
+  "doc": "003179",
+  "file_name": "【九州（福岡）】判決に対する弁護団声明（裁判所によるものではありませんが、この場所に掲載しています）",
+  "url": "https://www.call4.jp/file/pdf/202306/79364688831cb3629f49b239879868b8.pdf",
+  "bytes": 161894,
+  "暗号化": true,
+  "空パスワードで解除": true,
+  "ページ数": 2,
+  "PDF内の文字数(先頭10p)": 2581,
+  "判定": "テキスト層あり→OCR不要"
+ },
+ {
+  "分類": "(空文字が返った)",
+  "case": "I0000041",
+  "doc": "003259",
+  "file_name": "230710　証人尋問実施方法についての意見書",
+  "url": "https://www.call4.jp/file/pdf/202307/1851c0d826527288b0ee8b82604495b7.pdf",
+  "bytes": 678847,
+  "暗号化": false,
+  "ページ数": 10,
+  "PDF内の文字数(先頭10p)": 0,
+  "判定": "画像スキャン→OCRが必要"
+ },
+ {
+  "分類": "(空文字が返った)",
+  "case": "I0000041",
+  "doc": "003258",
+  "file_name": "230631　証人尋問実施方法に関する上申書",
+  "url": "https://www.call4.jp/file/pdf/202307/c0810a75eaf13897317ea7aaca342799.pdf",
+  "bytes": 243958,
+  "暗号化": false,
+  "ページ数": 7,
+  "PDF内の文字数(先頭10p)": 0,
+  "判定": "画像スキャン→OCRが必要"
+ },
+ {
+  "分類": "PDF file is not registered",
+  "case": "I0000046",
+  "doc": "000080",
+  "file_name": "甲１３：公職選挙法改正に関する調査特別委員会議事録（第140回国会衆議院）",
+  "url": null,
+  "判定": "HTMLにもファイルが無い"
+ },
+ {
+  "分類": "PDF file is not registered",
+  "case": "I0000046",
+  "doc": "000081",
+  "file_name": "甲１４：公職選挙法改正に関する調査特別委員会議事録（第141回国会衆議院）",
+  "url": null,
+  "判定": "HTMLにもファイルが無い"
+ },
+ {
+  "分類": "PDFの解析に失敗しました: Invalid PDF data: Missing `%PD",
+  "case": "I0000063",
+  "doc": "002855",
+  "file_name": "甲第33の20号証（甲12③：13m00~13m05s）",
+  "url": "https://www.call4.jp/file/mp4/202301/a9d7cfebcffc3849b83a8218c2ca18a4.mp4",
+  "判定": "PDFではない（.mp4）"
+ },
+ {
+  "分類": "PDFの解析に失敗しました: Invalid PDF data: Missing `%PD",
+  "case": "I0000063",
+  "doc": "002898",
+  "file_name": "乙第１２号証②（ホールカメラ-24時25分～24時36分）",
+  "url": "https://www.call4.jp/file/mp4/202301/a9f10dd2ba9f38c00f132a6381386948.mp4",
+  "判定": "PDFではない（.mp4）"
+ },
+ {
+  "分類": "unexpected content type: bool False",
+  "case": "I0000064",
+  "doc": "004012",
+  "file_name": "上告理由書",
+  "url": "https://www.call4.jp/file/pdf/202312/cfb569edc4f091934b5373283c07a723.pdf",
+  "bytes": 61604864,
+  "暗号化": false,
+  "ページ数": 50,
+  "PDF内の文字数(先頭10p)": 4045,
+  "判定": "テキスト層あり→OCR不要"
+ },
+ {
+  "分類": "PDFの解析に失敗しました: Empty PDF data given.",
+  "case": "I0000071",
+  "doc": "002298",
+  "file_name": "乙第５７号証：基本的対処方針（令和2年4月7日諮問委員会）",
+  "url": "https://www.call4.jp/file/pdf/202208/7b95d36a0ebf213e74ae2bff56b6e5b6.pdf",
+  "bytes": 0,
+  "判定": "PDFとして開けない: Cannot read an empty file"
+ },
+ {
+  "分類": "PDFの解析に失敗しました: Empty PDF data given.",
+  "case": "I0000071",
+  "doc": "002313",
+  "file_name": "乙第７０号証：飲食店における感染対策チェックリストの遵守状況とクラスター発生との関連についての調査（令和3年7月14日）",
+  "url": "https://www.call4.jp/file/pdf/202208/b961529b40e7f7359e4d481f70beac09.pdf",
+  "bytes": 0,
+  "判定": "PDFとして開けない: Cannot read an empty file"
+ },
+ {
+  "分類": "unexpected content type: bool False",
+  "case": "I0000072",
+  "doc": "001063",
+  "file_name": "地裁2_甲号証AB",
+  "url": "https://www.call4.jp/file/pdf/202106/1b71d671dd3ce1a6f3da63da244309fd.pdf",
+  "bytes": 19135033,
+  "暗号化": false,
+  "ページ数": 89,
+  "PDF内の文字数(先頭10p)": 1956,
+  "判定": "テキスト層あり→OCR不要"
+ },
+ {
+  "分類": "PDFの解析に失敗しました: Empty PDF data given.",
+  "case": "I0000076",
+  "doc": "003596",
+  "file_name": "甲181",
+  "url": "https://www.call4.jp/file/pdf/202310/6931e34aca33a469e80bc2ad90f5f6e7.pdf",
+  "bytes": 0,
+  "判定": "PDFとして開けない: Cannot read an empty file"
+ },
+ {
+  "分類": "PDF file is not registered",
+  "case": "I0000088",
+  "doc": "004802",
+  "file_name": "甲4号証（首里城火災に関する那覇市消防局の調査報告書）",
+  "url": null,
+  "判定": "HTMLにもファイルが無い"
+ },
+ {
+  "分類": "unexpected content type: bool False",
+  "case": "I0000092",
+  "doc": "001914",
+  "file_name": "乙第１０号証",
+  "url": "https://www.call4.jp/file/pdf/202204/1bffcce7517f4192c185406f437a596f.pdf",
+  "bytes": 6082771,
+  "暗号化": false,
+  "ページ数": 177,
+  "PDF内の文字数(先頭10p)": 7309,
+  "判定": "テキスト層あり→OCR不要"
+ },
+ {
+  "分類": "PDFの解析に失敗しました: Invalid PDF data: Missing `%PD",
+  "case": "I0000106",
+  "doc": "007655",
+  "file_name": "【訴訟２】動画解説！上告理由・補充書",
+  "url": "https://www.call4.jp/file/mp4/202604/107a4554fe2065c1eb2c1b8064ddfd77.mp4",
+  "判定": "PDFではない（.mp4）"
+ },
+ {
+  "分類": "transport: Expecting value: line 1 column 1 (",
+  "case": "I0000114",
+  "doc": "004656",
+  "file_name": "乙B8  精巣腫瘍診療ガイドライン 2015年版",
+  "url": "https://www.call4.jp/file/pdf/202405/99ce13f184074b4f8aa4fc55627a2eff.pdf",
+  "bytes": 81446221,
+  "暗号化": false,
+  "ページ数": 111,
+  "PDF内の文字数(先頭10p)": 81,
+  "判定": "画像スキャン→OCRが必要"
+ },
+ {
+  "分類": "PDFの解析に失敗しました: Secured pdf file are currently",
+  "case": "I0000121",
+  "doc": "003434",
+  "file_name": "大阪地裁判決｜2021年3月15日",
+  "url": "https://www.call4.jp/file/pdf/202309/ba64e1a4dc8c95dd431d2f31ebe0fc06.pdf",
+  "bytes": 9270169,
+  "暗号化": true,
+  "空パスワードで解除": true,
+  "ページ数": 123,
+  "PDF内の文字数(先頭10p)": 0,
+  "判定": "画像スキャン→OCRが必要"
+ },
+ {
+  "分類": "transport: Expecting value: line 1 column 1 (",
+  "case": "I0000155",
+  "doc": "008250",
+  "file_name": "甲A134-1　ＵＮＯＤＣ Handbook",
+  "url": "https://www.call4.jp/file/pdf/202607/c9a24e055dc03bcf90a569177898658a.pdf",
+  "bytes": 55407834,
+  "暗号化": false,
+  "ページ数": 90,
+  "PDF内の文字数(先頭10p)": 9966,
+  "判定": "テキスト層あり→OCR不要"
+ },
+ {
+  "分類": "transport: Expecting value: line 1 column 1 (",
+  "case": "I0000173",
+  "doc": "008067",
+  "file_name": "甲A03-16　200608 第2勾留延長準抗告申立書",
+  "url": "https://www.call4.jp/file/pdf/202606/e548546f0f3fd67bc2aa2becdcdf3708.pdf",
+  "bytes": 77787686,
+  "暗号化": false,
+  "ページ数": 90,
+  "PDF内の文字数(先頭10p)": 12619,
+  "判定": "テキスト層あり→OCR不要"
+ }
+]
