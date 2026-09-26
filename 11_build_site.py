@@ -70,6 +70,16 @@ TILES = [("対象ケース", len(TARGETS), "件"), ("読み込んだ訴訟資料
 tiles_html = "\n".join(
     f'<div class="tile"><div class="tile-n">{v:,}<span class="tile-u">{u}</span></div>'
     f'<div class="tile-l">{html.escape(l)}</div></div>' for l, v, u in TILES)
+bycase = collections.Counter()
+for r in real:
+    for c in r["出現ケース"]:
+        bycase[c] += 1
+cases_html = "\n".join(
+    f'<li><a href="https://www.call4.jp/info.php?type=items&amp;id={c}" target="_blank" '
+    f'rel="noopener">{html.escape(case_names.get(c, c))}</a>'
+    f'<span class="cs">資料{survey[c]["n"]}件 · 引用{bycase.get(c, 0)}件</span></li>'
+    for c in TARGETS)
+
 case_opts = "\n".join(
     f'<option value="{c}">{html.escape(case_names.get(c, c))[:34]}</option>' for c in TARGETS)
 kind_opts = "\n".join(
@@ -107,6 +117,20 @@ body {{
 h1 {{ font-size: 25px; margin: 0 0 6px; letter-spacing: .01em; }}
 .sub {{ color: var(--ink2); margin: 0 0 26px; }}
 a {{ color: var(--accent); }}
+.cases {{ margin: 0 0 26px; }}
+.cases h2 {{ font-size: 13px; font-weight: 600; color: var(--ink3); margin: 0 0 8px; letter-spacing: .04em; }}
+.cases ol {{ margin: 0; padding: 0; list-style: none; counter-reset: c; }}
+.cases li {{
+  counter-increment: c; display: flex; flex-wrap: wrap; align-items: baseline;
+  gap: 4px 10px; padding: 7px 0 7px 26px; position: relative;
+  border-bottom: 1px solid var(--line); font-size: 14.5px;
+}}
+.cases li:last-child {{ border-bottom: 0; }}
+.cases li::before {{
+  content: counter(c); position: absolute; left: 0; top: 7px;
+  color: var(--ink3); font-size: 12px; font-variant-numeric: tabular-nums;
+}}
+.cases .cs {{ color: var(--ink3); font-size: 12.5px; }}
 .note {{
   background: var(--warn-bg); border-left: 3px solid var(--warn-line);
   padding: 14px 18px; border-radius: 0 6px 6px 0; margin: 0 0 28px;
@@ -154,6 +178,13 @@ footer a {{ color: var(--ink2); }}
 <h1>CALL4 訴訟資料の引用文献リスト</h1>
 <p class="sub">公共訴訟プラットフォーム <a href="https://www.call4.jp/">CALL4</a> に公開されている訴訟資料が、
 どんな学術文献を引用しているかを機械的に抽出したものです。</p>
+
+<section class="cases">
+<h2>対象の4ケース</h2>
+<ol>
+{cases_html}
+</ol>
+</section>
 
 <div class="note">
 <b>これは試作版です。</b> 全96ケースのうち<b>4ケースだけ</b>を対象にしています。

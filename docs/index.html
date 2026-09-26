@@ -29,6 +29,20 @@ body {
 h1 { font-size: 25px; margin: 0 0 6px; letter-spacing: .01em; }
 .sub { color: var(--ink2); margin: 0 0 26px; }
 a { color: var(--accent); }
+.cases { margin: 0 0 26px; }
+.cases h2 { font-size: 13px; font-weight: 600; color: var(--ink3); margin: 0 0 8px; letter-spacing: .04em; }
+.cases ol { margin: 0; padding: 0; list-style: none; counter-reset: c; }
+.cases li {
+  counter-increment: c; display: flex; flex-wrap: wrap; align-items: baseline;
+  gap: 4px 10px; padding: 7px 0 7px 26px; position: relative;
+  border-bottom: 1px solid var(--line); font-size: 14.5px;
+}
+.cases li:last-child { border-bottom: 0; }
+.cases li::before {
+  content: counter(c); position: absolute; left: 0; top: 7px;
+  color: var(--ink3); font-size: 12px; font-variant-numeric: tabular-nums;
+}
+.cases .cs { color: var(--ink3); font-size: 12.5px; }
 .note {
   background: var(--warn-bg); border-left: 3px solid var(--warn-line);
   padding: 14px 18px; border-radius: 0 6px 6px 0; margin: 0 0 28px;
@@ -76,6 +90,16 @@ footer a { color: var(--ink2); }
 <h1>CALL4 訴訟資料の引用文献リスト</h1>
 <p class="sub">公共訴訟プラットフォーム <a href="https://www.call4.jp/">CALL4</a> に公開されている訴訟資料が、
 どんな学術文献を引用しているかを機械的に抽出したものです。</p>
+
+<section class="cases">
+<h2>対象の4ケース</h2>
+<ol>
+<li><a href="https://www.call4.jp/info.php?type=items&amp;id=I0000090" target="_blank" rel="noopener">司法の独立を脅かす岡口裁判官の罷免訴追に反対します！【アーカイブ】</a><span class="cs">資料23件 · 引用60件</span></li>
+<li><a href="https://www.call4.jp/info.php?type=items&amp;id=I0000111" target="_blank" rel="noopener">日米同性カップル在留資格訴訟  〜家族そろって日本で暮らすために〜【アーカイブ】</a><span class="cs">資料23件 · 引用46件</span></li>
+<li><a href="https://www.call4.jp/info.php?type=items&amp;id=I0000120" target="_blank" rel="noopener">神宮外苑を守ろう訴訟｜100年の歴史と3000本超の樹木を未来へ</a><span class="cs">資料62件 · 引用4件</span></li>
+<li><a href="https://www.call4.jp/info.php?type=items&amp;id=I0000159" target="_blank" rel="noopener">日本でもマリアージュしたいねん～海外で成立した同性婚の受理を求める裁判～</a><span class="cs">資料25件 · 引用91件</span></li>
+</ol>
+</section>
 
 <div class="note">
 <b>これは試作版です。</b> 全96ケースのうち<b>4ケースだけ</b>を対象にしています。
