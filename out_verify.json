@@ -1,0 +1,2692 @@
+[
+ {
+  "case": "I0000030",
+  "doc": "000808",
+  "file_name": "意見書（駒村圭吾先生）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 19422,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000030",
+  "doc": "000233",
+  "file_name": "第3準備書面",
+  "material_category": "1",
+  "has_text": true,
+  "len": 9371,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000031",
+  "doc": "000292",
+  "file_name": "【札幌・第２回】被告第１準備書面",
+  "material_category": "2",
+  "has_text": true,
+  "len": 13678,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000031",
+  "doc": "000774",
+  "file_name": "【東京】甲A323　原告佐藤郁夫さんの妹さんの陳述書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5969,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000031",
+  "doc": "007493",
+  "file_name": "【東京・二次】上告理由書第一分冊",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000031",
+  "doc": "003179",
+  "file_name": "【九州（福岡）】判決に対する弁護団声明（裁判所によるものではありませんが、この場所に掲載しています）",
+  "material_category": "3",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDFの解析に失敗しました: Secured pdf file are currently not supported."
+ },
+ {
+  "case": "I0000041",
+  "doc": "000041",
+  "file_name": "2018年9月25日　原告第３準備書面　相互主義補充",
+  "material_category": "1",
+  "has_text": true,
+  "len": 300,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000041",
+  "doc": "001751",
+  "file_name": "2021年12月15日 第13準備書面 証人尋問時に問題になったW氏が食事を取ったとされる時刻",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1285,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000041",
+  "doc": "003259",
+  "file_name": "230710　証人尋問実施方法についての意見書",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000041",
+  "doc": "003258",
+  "file_name": "230631　証人尋問実施方法に関する上申書",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000046",
+  "doc": "000279",
+  "file_name": "判決",
+  "material_category": "3",
+  "has_text": true,
+  "len": 12922,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000046",
+  "doc": "000208",
+  "file_name": "弁論要旨",
+  "material_category": "2",
+  "has_text": true,
+  "len": 2115,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000046",
+  "doc": "000080",
+  "file_name": "甲１３：公職選挙法改正に関する調査特別委員会議事録（第140回国会衆議院）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDF file is not registered"
+ },
+ {
+  "case": "I0000046",
+  "doc": "000081",
+  "file_name": "甲１４：公職選挙法改正に関する調査特別委員会議事録（第141回国会衆議院）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDF file is not registered"
+ },
+ {
+  "case": "I0000049",
+  "doc": "000168",
+  "file_name": "甲3：グローブ新聞社事件判決（原文）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 71215,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000049",
+  "doc": "000173",
+  "file_name": "甲7：読売新聞・法廷でメモなぜ禁止",
+  "material_category": "1",
+  "has_text": true,
+  "len": 2986,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000049",
+  "doc": "000118",
+  "file_name": "弁論要旨",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000050",
+  "doc": "000309",
+  "file_name": "乙1～7",
+  "material_category": "2",
+  "has_text": true,
+  "len": 85241,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000050",
+  "doc": "000323",
+  "file_name": "2019年5月29日：準備書面④",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1515,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000050",
+  "doc": "000303",
+  "file_name": "甲15～24-2",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000052",
+  "doc": "000488",
+  "file_name": "乙22：答申書（情報公開個人情報保護審査会）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 12296,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000052",
+  "doc": "002163",
+  "file_name": "答弁書",
+  "material_category": "2",
+  "has_text": true,
+  "len": 17487,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000052",
+  "doc": "001598",
+  "file_name": "判決",
+  "material_category": "3",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000052",
+  "doc": "000257",
+  "file_name": "甲17：実績評価書(平成29年)",
+  "material_category": "1",
+  "has_text": false,
+  "len": 101328,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000053",
+  "doc": "000628",
+  "file_name": "原告証拠説明書　甲29～31　20201009",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1946,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000053",
+  "doc": "000888",
+  "file_name": "被告準備書面（６）20210406",
+  "material_category": "2",
+  "has_text": true,
+  "len": 18250,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000053",
+  "doc": "003837",
+  "file_name": "原告準備書面（１）20231113",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000054",
+  "doc": "002967",
+  "file_name": "被告東京都準備書面（９）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 10683,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000054",
+  "doc": "002923",
+  "file_name": "原告第１８準備書面",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5976,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000054",
+  "doc": "002924",
+  "file_name": "最終準備書面",
+  "material_category": "1",
+  "has_text": false,
+  "len": 63207,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000056",
+  "doc": "000435",
+  "file_name": "準備書面（二）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 11692,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000056",
+  "doc": "000427",
+  "file_name": "準備書面（三）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 3427,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000060",
+  "doc": "000691",
+  "file_name": "訴状別紙（旅券法推移）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 39312,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000060",
+  "doc": "003110",
+  "file_name": "被告準備書面（８）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 3720,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000060",
+  "doc": "005486",
+  "file_name": "一審原告準備書面（４）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000060",
+  "doc": "006391",
+  "file_name": "上告受理申立理由書",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000061",
+  "doc": "007028",
+  "file_name": "原告　準備書面２０｜2024年3月1日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 3385,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000061",
+  "doc": "007217",
+  "file_name": "国　第12準備書面　最終｜2025年12月17日",
+  "material_category": "2",
+  "has_text": true,
+  "len": 61497,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000061",
+  "doc": "007441",
+  "file_name": "判決書　2026年3月18日",
+  "material_category": "3",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000062",
+  "doc": "003733",
+  "file_name": "⚫︎証拠説明 甲95〜99（個人情報含むので、部分的に証拠をアップします）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 13205,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000062",
+  "doc": "005481",
+  "file_name": "弁護団声明文｜2024年9月20日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1964,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000062",
+  "doc": "000720",
+  "file_name": "被告準備書面(1) 21.2.5",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000062",
+  "doc": "007106",
+  "file_name": "上告理由および上告受理申し立て理由書｜2025年12月4日",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000063",
+  "doc": "002910",
+  "file_name": "証拠説明書⑾（甲３３）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 2686,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000063",
+  "doc": "002876",
+  "file_name": "乙第２８号証（トルコ人の連行状況の再現について（報告））",
+  "material_category": "2",
+  "has_text": true,
+  "len": 4371,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000063",
+  "doc": "002855",
+  "file_name": "甲第33の20号証（甲12③：13m00~13m05s）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDFの解析に失敗しました: Invalid PDF data: Missing `%PDF-` header."
+ },
+ {
+  "case": "I0000063",
+  "doc": "002898",
+  "file_name": "乙第１２号証②（ホールカメラ-24時25分～24時36分）",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDFの解析に失敗しました: Invalid PDF data: Missing `%PDF-` header."
+ },
+ {
+  "case": "I0000064",
+  "doc": "001563",
+  "file_name": "甲34：意見書（青山薫教授）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 18719,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000064",
+  "doc": "000709",
+  "file_name": "甲23：令和2年6月8日付官報（第201回国会 参議院会議録第23号）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 11619,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000064",
+  "doc": "004012",
+  "file_name": "上告理由書",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "unexpected content type: bool False"
+ },
+ {
+  "case": "I0000064",
+  "doc": "003233",
+  "file_name": "第11準備書面（前例は差別を正当化せず、また同種の前例もない）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 10083,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000067",
+  "doc": "001860",
+  "file_name": "被控訴人第7準備書面",
+  "material_category": "2",
+  "has_text": true,
+  "len": 7202,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000067",
+  "doc": "004156",
+  "file_name": "第一審判決",
+  "material_category": "3",
+  "has_text": true,
+  "len": 24832,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000068",
+  "doc": "005877",
+  "file_name": "控訴人意見陳述書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1858,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000068",
+  "doc": "004223",
+  "file_name": "被告・準備書面（３）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 24036,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000068",
+  "doc": "004224",
+  "file_name": "原告・準備書面２",
+  "material_category": "1",
+  "has_text": false,
+  "len": 52193,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000069",
+  "doc": "001121",
+  "file_name": "【訴訟①：確認の訴え】20210720証拠説明書（甲24～甲30）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 3689,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000069",
+  "doc": "002265",
+  "file_name": "【訴訟②：国家賠償請求】20220606証拠説明書（甲44）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 590,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000070",
+  "doc": "002785",
+  "file_name": "上告受理申立理由書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 19317,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000070",
+  "doc": "000986",
+  "file_name": "第11回（証人尋問）裁判資料_校長②証人調書",
+  "material_category": "2",
+  "has_text": true,
+  "len": 12801,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000071",
+  "doc": "001279",
+  "file_name": "甲第４５号証：令和3年2月12日「（参考）緊急事態宣言、まん延防止等重点措置等について」と題する資料",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1047658,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000071",
+  "doc": "001257",
+  "file_name": "甲第３５号証：「首相動静（令和3年2月25日）」（令和3年2月26日朝日新聞）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 696,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000071",
+  "doc": "002298",
+  "file_name": "乙第５７号証：基本的対処方針（令和2年4月7日諮問委員会）",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDFの解析に失敗しました: Empty PDF data given."
+ },
+ {
+  "case": "I0000071",
+  "doc": "002313",
+  "file_name": "乙第７０号証：飲食店における感染対策チェックリストの遵守状況とクラスター発生との関連についての調査（令和3年7月14日）",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDFの解析に失敗しました: Empty PDF data given."
+ },
+ {
+  "case": "I0000072",
+  "doc": "000836",
+  "file_name": "高裁_裁判長からの質問リスト",
+  "material_category": "3",
+  "has_text": true,
+  "len": 848,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000072",
+  "doc": "001072",
+  "file_name": "控訴人第5準備書面",
+  "material_category": "1",
+  "has_text": true,
+  "len": 9456,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000072",
+  "doc": "001063",
+  "file_name": "地裁2_甲号証AB",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "unexpected content type: bool False"
+ },
+ {
+  "case": "I0000075",
+  "doc": "001319",
+  "file_name": "2021年10月4日  申立書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 10720,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000075",
+  "doc": "001593",
+  "file_name": "2021年12月24日付け補充書面１（国内の議論）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 7351,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000076",
+  "doc": "003673",
+  "file_name": "甲69",
+  "material_category": "1",
+  "has_text": true,
+  "len": 634,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000076",
+  "doc": "003640",
+  "file_name": "甲35",
+  "material_category": "1",
+  "has_text": true,
+  "len": 18931,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000076",
+  "doc": "003596",
+  "file_name": "甲181",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDFの解析に失敗しました: Empty PDF data given."
+ },
+ {
+  "case": "I0000076",
+  "doc": "003607",
+  "file_name": "乙7",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDFの解析に失敗しました: Empty PDF data given."
+ },
+ {
+  "case": "I0000078",
+  "doc": "002175",
+  "file_name": "被告　証拠説明書（４）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 1572,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000078",
+  "doc": "001525",
+  "file_name": "被告　準備書面（１）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 1427,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000080",
+  "doc": "001158",
+  "file_name": "土屋訴訟・甲第22_2号証",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1750,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000080",
+  "doc": "001609",
+  "file_name": "土屋訴訟・準備書面（４）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 7919,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000081",
+  "doc": "004987",
+  "file_name": "【旧訴】訴状訂正申立書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 462,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000081",
+  "doc": "004988",
+  "file_name": "【旧訴】被告答弁書",
+  "material_category": "2",
+  "has_text": true,
+  "len": 717,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000082",
+  "doc": "005551",
+  "file_name": "被告準備書面（12）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 55472,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000082",
+  "doc": "004037",
+  "file_name": "乙①８第５８寿和丸の＊＊＊について",
+  "material_category": "2",
+  "has_text": true,
+  "len": 53,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000082",
+  "doc": "005506",
+  "file_name": "甲２１（漁船転覆事故に係る解析調査報告書）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 16301,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000082",
+  "doc": "004061",
+  "file_name": "乙①３０船舶国籍証書検認期限指定書（写）",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000083",
+  "doc": "001226",
+  "file_name": "冒頭陳述要旨",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1971,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000083",
+  "doc": "001230",
+  "file_name": "手紙訳文",
+  "material_category": "1",
+  "has_text": true,
+  "len": 329,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000084",
+  "doc": "002973",
+  "file_name": "国：文書提出命令申立てに対する意見書",
+  "material_category": "2",
+  "has_text": true,
+  "len": 17811,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000084",
+  "doc": "003142",
+  "file_name": "国：準備書面4",
+  "material_category": "2",
+  "has_text": true,
+  "len": 17001,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000084",
+  "doc": "003193",
+  "file_name": "【第一審】第２準備書面",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000084",
+  "doc": "003238",
+  "file_name": "証拠説明書8",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000085",
+  "doc": "005952",
+  "file_name": "控訴審第１準備書面",
+  "material_category": "1",
+  "has_text": true,
+  "len": 8636,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000085",
+  "doc": "006897",
+  "file_name": "控訴審判決",
+  "material_category": "3",
+  "has_text": true,
+  "len": 16119,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000085",
+  "doc": "003284",
+  "file_name": "被告準備書面５",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000085",
+  "doc": "003283",
+  "file_name": "被告準備書面４",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000086",
+  "doc": "001727",
+  "file_name": "東京高裁　判決全文",
+  "material_category": "3",
+  "has_text": true,
+  "len": 55229,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000086",
+  "doc": "002639",
+  "file_name": "東京地裁西さん第１回期日・西さん意見陳述要旨",
+  "material_category": "1",
+  "has_text": true,
+  "len": 626,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000086",
+  "doc": "003175",
+  "file_name": "230601仙台高裁判決要旨",
+  "material_category": "3",
+  "has_text": false,
+  "len": 6137,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000086",
+  "doc": "003212",
+  "file_name": "230616札幌高裁判決",
+  "material_category": "3",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000087",
+  "doc": "006136",
+  "file_name": "原告第11準備書面",
+  "material_category": "1",
+  "has_text": true,
+  "len": 15310,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000087",
+  "doc": "003017",
+  "file_name": "証拠説明書（甲54-59)",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5379,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000087",
+  "doc": "003014",
+  "file_name": "原告第４準備書面",
+  "material_category": "1",
+  "has_text": false,
+  "len": 11020,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000087",
+  "doc": "006129",
+  "file_name": "原告第16準備書面",
+  "material_category": "1",
+  "has_text": false,
+  "len": 247227,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000088",
+  "doc": "004984",
+  "file_name": "原告証拠説明書5（甲２１，２２）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1166,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000088",
+  "doc": "004629",
+  "file_name": "訴状｜2021年8月16日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 11546,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000088",
+  "doc": "006891",
+  "file_name": "補助参加準備書面６",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000088",
+  "doc": "004802",
+  "file_name": "甲4号証（首里城火災に関する那覇市消防局の調査報告書）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDF file is not registered"
+ },
+ {
+  "case": "I0000089",
+  "doc": "001706",
+  "file_name": "準備書面(1)",
+  "material_category": "2",
+  "has_text": true,
+  "len": 1593,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000089",
+  "doc": "002440",
+  "file_name": "準備書面(1)",
+  "material_category": "1",
+  "has_text": true,
+  "len": 4036,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000090",
+  "doc": "001723",
+  "file_name": "訴追状｜2021年6月16日",
+  "material_category": "2",
+  "has_text": true,
+  "len": 5749,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000090",
+  "doc": "001722",
+  "file_name": "求釈明書｜2022年3月2日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 765,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000092",
+  "doc": "001901",
+  "file_name": "甲第３３号証",
+  "material_category": "1",
+  "has_text": true,
+  "len": 4883,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000092",
+  "doc": "001923",
+  "file_name": "乙第１９号証",
+  "material_category": "2",
+  "has_text": true,
+  "len": 12908,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000092",
+  "doc": "001914",
+  "file_name": "乙第１０号証",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "unexpected content type: bool False"
+ },
+ {
+  "case": "I0000092",
+  "doc": "001967",
+  "file_name": "判決",
+  "material_category": "3",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000093",
+  "doc": "002038",
+  "file_name": "証拠説明書４",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1027,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000093",
+  "doc": "001962",
+  "file_name": "文書提出命令申立てに対する意見書（４）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 2198,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000094",
+  "doc": "004614",
+  "file_name": "求釈明に対する回答書",
+  "material_category": "2",
+  "has_text": true,
+  "len": 1598,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000094",
+  "doc": "002144",
+  "file_name": "文書提出命令申立書（司法解剖）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5264,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000094",
+  "doc": "004615",
+  "file_name": "第10準備書面",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000094",
+  "doc": "003191",
+  "file_name": "第６準備書面",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000095",
+  "doc": "001833",
+  "file_name": "準備書面(1)_210721",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1525,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000095",
+  "doc": "001838",
+  "file_name": "被告準備書面(1)_200508",
+  "material_category": "2",
+  "has_text": true,
+  "len": 34016,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000095",
+  "doc": "003263",
+  "file_name": "上告理由書",
+  "material_category": "1",
+  "has_text": false,
+  "len": 35948,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000095",
+  "doc": "003281",
+  "file_name": "上告棄却決定（調書）",
+  "material_category": "3",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000096",
+  "doc": "007238",
+  "file_name": "控訴状（2025年6月30日）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 985,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000096",
+  "doc": "007683",
+  "file_name": "甲A83　個人通報1973/2010（グリフィス対オーストラリア）見解",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5448,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000096",
+  "doc": "003217",
+  "file_name": "甲A46　一般的意見35草案に対し日本政府が提出したコメント",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000096",
+  "doc": "003220",
+  "file_name": "甲A50　自由権規約委員会第6回政府報告書審査　総括所見",
+  "material_category": "1",
+  "has_text": false,
+  "len": 305,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000104",
+  "doc": "004116",
+  "file_name": "結審にあたって、一審原告の三輪、近藤、船田、松島（代読）が、陳述した意見",
+  "material_category": "1",
+  "has_text": true,
+  "len": 2979,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000104",
+  "doc": "002349",
+  "file_name": "【第１回】原告船田意見陳述",
+  "material_category": "1",
+  "has_text": true,
+  "len": 3410,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000105",
+  "doc": "004926",
+  "file_name": "原告第５準備書面",
+  "material_category": "1",
+  "has_text": true,
+  "len": 247581,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000105",
+  "doc": "003360",
+  "file_name": "原告第３準備書面",
+  "material_category": "1",
+  "has_text": true,
+  "len": 588,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000105",
+  "doc": "003190",
+  "file_name": "原告意見陳述書（第４回期日）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000106",
+  "doc": "006832",
+  "file_name": "【訴訟３】大阪地裁判決",
+  "material_category": "3",
+  "has_text": true,
+  "len": 54735,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000106",
+  "doc": "005435",
+  "file_name": "【訴訟１】証拠説明書（３）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1013,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000106",
+  "doc": "003261",
+  "file_name": "【訴訟１】甲１２０原告陳述書（第3回口頭弁論期日提出）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "unexpected content type: bool False"
+ },
+ {
+  "case": "I0000106",
+  "doc": "007655",
+  "file_name": "【訴訟２】動画解説！上告理由・補充書",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDFの解析に失敗しました: Invalid PDF data: Missing `%PDF-` header."
+ },
+ {
+  "case": "I0000109",
+  "doc": "005837",
+  "file_name": "甲26～29原告代理人小竹が検証でベルト手錠で縛られた際の傷",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5728,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000109",
+  "doc": "007584",
+  "file_name": "付帯控訴状",
+  "material_category": "1",
+  "has_text": true,
+  "len": 3787,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000111",
+  "doc": "003296",
+  "file_name": "控訴人A陳述書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 3072,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000111",
+  "doc": "004153",
+  "file_name": "上告受理申立理由書要旨",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5027,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000112",
+  "doc": "005156",
+  "file_name": "準備書面(３)",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1428,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000112",
+  "doc": "005157",
+  "file_name": "準備書面(４)",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1785,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000114",
+  "doc": "005817",
+  "file_name": "被告証拠説明書７（乙B）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 1682,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000114",
+  "doc": "005823",
+  "file_name": "乙B28『医学大辞典』",
+  "material_category": "2",
+  "has_text": true,
+  "len": 5633,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000114",
+  "doc": "004656",
+  "file_name": "乙B8  精巣腫瘍診療ガイドライン 2015年版",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "transport: Expecting value: line 1 column 1 (char 0)"
+ },
+ {
+  "case": "I0000115",
+  "doc": "007221",
+  "file_name": "準備書面10",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5050,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000115",
+  "doc": "003323",
+  "file_name": "甲4: 沼津市新中間処理施設設備基本計画",
+  "material_category": "1",
+  "has_text": true,
+  "len": 24231,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000115",
+  "doc": "005961",
+  "file_name": "甲58-63",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000115",
+  "doc": "003151",
+  "file_name": "乙第2号証",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000116",
+  "doc": "006208",
+  "file_name": "書証（甲１４の２）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 337,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000116",
+  "doc": "008568",
+  "file_name": "参加行政庁控訴答弁書",
+  "material_category": "2",
+  "has_text": true,
+  "len": 36279,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000116",
+  "doc": "003169",
+  "file_name": "被告　証拠一覧表20230522",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000116",
+  "doc": "003166",
+  "file_name": "答弁書",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000117",
+  "doc": "003990",
+  "file_name": "答弁書",
+  "material_category": "2",
+  "has_text": true,
+  "len": 4190,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000117",
+  "doc": "003985",
+  "file_name": "甲B33の2　甲B33の1号証翻訳文",
+  "material_category": "1",
+  "has_text": true,
+  "len": 3111,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000117",
+  "doc": "003255",
+  "file_name": "訴状要約版",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "unexpected content type: bool False"
+ },
+ {
+  "case": "I0000117",
+  "doc": "004125",
+  "file_name": "乙6",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000119",
+  "doc": "003457",
+  "file_name": "高松高裁控訴審判決｜2023年7月13日",
+  "material_category": "3",
+  "has_text": true,
+  "len": 14729,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000119",
+  "doc": "004774",
+  "file_name": "令和6年6月26日付最高裁上告不受理決定",
+  "material_category": "3",
+  "has_text": true,
+  "len": 1406,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000120",
+  "doc": "003484",
+  "file_name": "【訴訟２・新宿区訴訟】訴状｜2023年7月25日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 17913,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000120",
+  "doc": "006143",
+  "file_name": "【訴訟２・新宿区訴訟】第6回口頭弁論　意見陳述書　原和加子（コモンズの緑を守る全国ネット共同代表）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 2947,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000121",
+  "doc": "003442",
+  "file_name": "証拠説明書２０｜2021年11月12日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5693,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000121",
+  "doc": "003384",
+  "file_name": "証拠説明書１｜2018年11月19日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 676,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000121",
+  "doc": "003434",
+  "file_name": "大阪地裁判決｜2021年3月15日",
+  "material_category": "3",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "PDFの解析に失敗しました: Secured pdf file are currently not supported."
+ },
+ {
+  "case": "I0000123",
+  "doc": "007532",
+  "file_name": "甲41 浦部法穂「政教分離と信教の自由」ジュリスト1022号、52-55頁",
+  "material_category": "1",
+  "has_text": true,
+  "len": 10280,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000123",
+  "doc": "006716",
+  "file_name": "20250829期日延期上申書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 247,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000124",
+  "doc": "005137",
+  "file_name": "【恵庭市「障害者虐待」隠ぺい事件】被告恵庭市準備書面（４）｜２０２４年９月３日",
+  "material_category": "2",
+  "has_text": true,
+  "len": 3896,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000124",
+  "doc": "004748",
+  "file_name": "【恵庭市「障害者虐待」隠ぺい事件】甲第２１号証｜２０２４年６月１２日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 6729,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000124",
+  "doc": "003824",
+  "file_name": "【恵庭市「障害者虐待」隠ぺい事件】甲第５号証｜２０２３年８月２４日",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000124",
+  "doc": "003826",
+  "file_name": "【恵庭市「障害者虐待」隠ぺい事件】甲第７号証｜２０２３年８月２４日",
+  "material_category": "1",
+  "has_text": false,
+  "len": 222,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000125",
+  "doc": "004135",
+  "file_name": "一審被告控訴状",
+  "material_category": "2",
+  "has_text": true,
+  "len": 755,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000125",
+  "doc": "004138",
+  "file_name": "弁論要旨",
+  "material_category": "1",
+  "has_text": true,
+  "len": 15694,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000125",
+  "doc": "004237",
+  "file_name": "乙15号証",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000128",
+  "doc": "006743",
+  "file_name": "甲75　報告書（レイシャルプロファイリングに対する監視と調査にかんする国際的基準）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 9795,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000128",
+  "doc": "004956",
+  "file_name": "乙B1：初任科及び初任補修科実施要領の改正について（通達）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 121469,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000128",
+  "doc": "006009",
+  "file_name": "甲48　2019年9月27日付R. v. Le事件最高裁判決（ 2019 SCC 34 (CanLII), [2019] 2 SCR 692）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000128",
+  "doc": "006024",
+  "file_name": "甲48（和訳）2019年9月27日付R. v. Le事件最高裁判決（ 2019 SCC 34 (CanLII), [2019] 2 SCR 692）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000129",
+  "doc": "006709",
+  "file_name": "準備書面(2)",
+  "material_category": "2",
+  "has_text": true,
+  "len": 27568,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000129",
+  "doc": "006217",
+  "file_name": "第２準備書面",
+  "material_category": "1",
+  "has_text": true,
+  "len": 10555,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000130",
+  "doc": "004446",
+  "file_name": "甲４号証（安部祥太氏意見書）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 55935,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000130",
+  "doc": "005186",
+  "file_name": "「控訴理由書」2024年9月17日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 27636,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000131",
+  "doc": "006810",
+  "file_name": "【札幌】20250910_第10準備書面（憲法13条）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 46604,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000131",
+  "doc": "006639",
+  "file_name": "【東京】20250815_第11準備書面（憲法13条）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 47732,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000131",
+  "doc": "005848",
+  "file_name": "【札幌】20250120_証拠説明書（Ａ８）国会_甲A195-230の3",
+  "material_category": "1",
+  "has_text": false,
+  "len": 8782,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000132",
+  "doc": "008334",
+  "file_name": "求釈明申立書_260703",
+  "material_category": "1",
+  "has_text": true,
+  "len": 2703,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000132",
+  "doc": "008298",
+  "file_name": "甲144の1：Tubal Sterilization_ Practice Essentials, Background, History of the Procedure",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5343,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000132",
+  "doc": "008294",
+  "file_name": "甲137：会告印刷",
+  "material_category": "1",
+  "has_text": false,
+  "len": 1756,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000133",
+  "doc": "004402",
+  "file_name": "準備書面⑴",
+  "material_category": "1",
+  "has_text": true,
+  "len": 9804,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000133",
+  "doc": "005534",
+  "file_name": "241017特別抗告理由書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 6658,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000133",
+  "doc": "004493",
+  "file_name": "甲C47　意見書（大串元区議）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "unexpected content type: bool False"
+ },
+ {
+  "case": "I0000134",
+  "doc": "005553",
+  "file_name": "家事審判申立書2024年2月14日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 26949,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000134",
+  "doc": "005870",
+  "file_name": "太白区長意見書2024年7月9日",
+  "material_category": "2",
+  "has_text": true,
+  "len": 14729,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000135",
+  "doc": "007417",
+  "file_name": "20250909 原告準備書面⑺",
+  "material_category": "1",
+  "has_text": true,
+  "len": 3985,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000135",
+  "doc": "006506",
+  "file_name": "20230929 被告準備書面⑴",
+  "material_category": "2",
+  "has_text": true,
+  "len": 5519,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000136",
+  "doc": "006808",
+  "file_name": "甲10号証│2023年　消費者物価地域差指数",
+  "material_category": "1",
+  "has_text": true,
+  "len": 24325,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000136",
+  "doc": "008640",
+  "file_name": "証拠説明書（7）｜2026年8月31日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 4545,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000139",
+  "doc": "006035",
+  "file_name": "京都家裁決定に対する申立人コメント（裁判所によるものではありませんがここに掲載します）",
+  "material_category": "3",
+  "has_text": true,
+  "len": 1277,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000139",
+  "doc": "006144",
+  "file_name": "2025年4月15日付抗告理由書（公開用編集版）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 49063,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000141",
+  "doc": "004914",
+  "file_name": "控訴答弁書｜2023年9月26日",
+  "material_category": "2",
+  "has_text": true,
+  "len": 1616,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000141",
+  "doc": "004877",
+  "file_name": "原告準備書面２｜2022年4月28日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 11360,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000142",
+  "doc": "005125",
+  "file_name": "被告証拠説明書（乙1～5）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 1767,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000142",
+  "doc": "006501",
+  "file_name": "被告証拠説明書（乙8～10）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 1490,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000143",
+  "doc": "006862",
+  "file_name": "証拠説明書⑷",
+  "material_category": "1",
+  "has_text": true,
+  "len": 3820,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000143",
+  "doc": "006873",
+  "file_name": "甲7１号",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1688,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000146",
+  "doc": "005344",
+  "file_name": "甲A62 一部開示された行政文書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 19091,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000146",
+  "doc": "005367",
+  "file_name": "甲B9 理由説明書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 831,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000146",
+  "doc": "005331",
+  "file_name": "甲A49 裁決書",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "unexpected content type: bool False"
+ },
+ {
+  "case": "I0000146",
+  "doc": "005385",
+  "file_name": "甲B27 答申書",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "unexpected content type: bool False"
+ },
+ {
+  "case": "I0000148",
+  "doc": "006794",
+  "file_name": "乙B6　症例からみた臨床栄養学",
+  "material_category": "2",
+  "has_text": true,
+  "len": 5168,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000148",
+  "doc": "005522",
+  "file_name": "甲第C1号証",
+  "material_category": "1",
+  "has_text": true,
+  "len": 11636,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000148",
+  "doc": "007573",
+  "file_name": "乙B19_ポカリスエット基本情報",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000149",
+  "doc": "007125",
+  "file_name": "甲42：村上氏陳述書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1719,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000149",
+  "doc": "005588",
+  "file_name": "訴状_20241113",
+  "material_category": "1",
+  "has_text": true,
+  "len": 35277,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000150",
+  "doc": "008464",
+  "file_name": "甲67：安倍晋三元内閣総理大臣の国葬儀に関する質問主意書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5887,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000150",
+  "doc": "008437",
+  "file_name": "証拠説明書(5)",
+  "material_category": "1",
+  "has_text": true,
+  "len": 13212,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000150",
+  "doc": "005735",
+  "file_name": "甲30：2024年6月8日メルマガ",
+  "material_category": "1",
+  "has_text": false,
+  "len": 2171,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000150",
+  "doc": "005731",
+  "file_name": "甲26：新聞記事（日本経済新聞昭和50年6月3日夕刊）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000151",
+  "doc": "006986",
+  "file_name": "甲２７： 昭和２７年３月２５日・第92回帝国議会衆議院における衆議院議員選挙法の一部を改正する法律案委員会第7号（赤枠加筆済み）抜粋",
+  "material_category": "1",
+  "has_text": true,
+  "len": 110379,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000151",
+  "doc": "006321",
+  "file_name": "甲１０: 昭和２７年６月１４日・衆議院調査特別委員会（赤枠加筆済み）抜粋",
+  "material_category": "1",
+  "has_text": true,
+  "len": 8464,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000152",
+  "doc": "007828",
+  "file_name": "証拠説明書⑷【甲50~57】",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5221,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000152",
+  "doc": "007032",
+  "file_name": "第1準備書面【必要経費該当性判断枠組み及び保育料の該当性について】",
+  "material_category": "1",
+  "has_text": true,
+  "len": 18344,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000154",
+  "doc": "006433",
+  "file_name": "20250410第2回期日原告C（前訴原告）意見陳述",
+  "material_category": "1",
+  "has_text": true,
+  "len": 3749,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000154",
+  "doc": "006427",
+  "file_name": "20250214前訴原告追加訴状",
+  "material_category": "1",
+  "has_text": true,
+  "len": 8137,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000155",
+  "doc": "007393",
+  "file_name": "甲A93-1 ：東京ルールズに関する国連による逐条解説",
+  "material_category": "1",
+  "has_text": true,
+  "len": 114659,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000155",
+  "doc": "008215",
+  "file_name": "甲A135-2 （日本語訳）コロシェンコ対ロシア事件",
+  "material_category": "1",
+  "has_text": true,
+  "len": 581,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000155",
+  "doc": "008250",
+  "file_name": "甲A134-1　ＵＮＯＤＣ Handbook",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "transport: Expecting value: line 1 column 1 (char 0)"
+ },
+ {
+  "case": "I0000155",
+  "doc": "006721",
+  "file_name": "乙8 ：第二回国会参議院司法委員会会議録第40号",
+  "material_category": "2",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000156",
+  "doc": "007001",
+  "file_name": "乙第２１号証の３",
+  "material_category": "2",
+  "has_text": true,
+  "len": 3612,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000156",
+  "doc": "007278",
+  "file_name": "甲第４０号証",
+  "material_category": "1",
+  "has_text": true,
+  "len": 3584,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000156",
+  "doc": "006622",
+  "file_name": "乙第１７号証",
+  "material_category": "2",
+  "has_text": false,
+  "len": 59,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000156",
+  "doc": "006620",
+  "file_name": "乙第１５号証",
+  "material_category": "2",
+  "has_text": false,
+  "len": 59,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000157",
+  "doc": "006503",
+  "file_name": "20250701　訴状　",
+  "material_category": "1",
+  "has_text": true,
+  "len": 22300,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000157",
+  "doc": "007306",
+  "file_name": "乙６－３",
+  "material_category": "2",
+  "has_text": true,
+  "len": 2323,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000159",
+  "doc": "007076",
+  "file_name": "c240715補充書面５（何による区別か）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1869,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000159",
+  "doc": "008597",
+  "file_name": "c260625補充書面15（コガリさん申立適格）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5042,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000160",
+  "doc": "006698",
+  "file_name": "準備書面（２）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 15067,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000160",
+  "doc": "006678",
+  "file_name": "証拠保全申立書",
+  "material_category": "1",
+  "has_text": true,
+  "len": 843,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000160",
+  "doc": "006657",
+  "file_name": "期日延長申立書（２）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000160",
+  "doc": "006654",
+  "file_name": "判決",
+  "material_category": "3",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000164",
+  "doc": "007915",
+  "file_name": "被告証拠説明書（2）【乙12-14】_20260612",
+  "material_category": "2",
+  "has_text": true,
+  "len": 999,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000164",
+  "doc": "007909",
+  "file_name": "被告準備書面（2）_20260612",
+  "material_category": "2",
+  "has_text": true,
+  "len": 16227,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000164",
+  "doc": "008359",
+  "file_name": "甲23：「住民基本台帳人口移動報告 2025年（令和7年）結果」（結果の要約及び結果の概要）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "unexpected content type: bool False"
+ },
+ {
+  "case": "I0000165",
+  "doc": "007326",
+  "file_name": "上告状兼上告受理申立書　2024年10月24日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 681,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000165",
+  "doc": "007324",
+  "file_name": "被上告人弁論要旨　2026年2月27日",
+  "material_category": "2",
+  "has_text": true,
+  "len": 2657,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000167",
+  "doc": "007502",
+  "file_name": "訴状（第１次訴訟）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 90010,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000167",
+  "doc": "007504",
+  "file_name": "甲A2_IPCC第6次評価報告書の概要-統合報告書-",
+  "material_category": "1",
+  "has_text": true,
+  "len": 133468,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000167",
+  "doc": "007503",
+  "file_name": "甲A1_IPCC第6次評価報告書・統合報告書・環境省訳",
+  "material_category": "1",
+  "has_text": false,
+  "len": 60591,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000169",
+  "doc": "008389",
+  "file_name": "被告準備書面（７）",
+  "material_category": "2",
+  "has_text": true,
+  "len": 3858,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000169",
+  "doc": "008381",
+  "file_name": "原告第７準備書面",
+  "material_category": "1",
+  "has_text": true,
+  "len": 7215,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000170",
+  "doc": "007663",
+  "file_name": "乙28│検査調書",
+  "material_category": "2",
+  "has_text": true,
+  "len": 1393,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000170",
+  "doc": "007616",
+  "file_name": "甲17│契約一覧表（抜粋）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 4690,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000171",
+  "doc": "007479",
+  "file_name": "訴状　2021年11月24日",
+  "material_category": "1",
+  "has_text": true,
+  "len": 9880,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000171",
+  "doc": "007594",
+  "file_name": "一審判決別表　2025年1月27日",
+  "material_category": "3",
+  "has_text": true,
+  "len": 11504,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000172",
+  "doc": "008140",
+  "file_name": "20260603準備書面(3)",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1488,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000172",
+  "doc": "008139",
+  "file_name": "20260603準備書面(2)",
+  "material_category": "1",
+  "has_text": true,
+  "len": 10082,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000173",
+  "doc": "008107",
+  "file_name": "甲A03-46　201125 決定（勾留執行停止の条件変更）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 378,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000173",
+  "doc": "008038",
+  "file_name": "甲A02　報告書 (2) 【公判前整理手続に関する記録】",
+  "material_category": "1",
+  "has_text": true,
+  "len": 4505,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000173",
+  "doc": "008067",
+  "file_name": "甲A03-16　200608 第2勾留延長準抗告申立書",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "transport: Expecting value: line 1 column 1 (char 0)"
+ },
+ {
+  "case": "I0000173",
+  "doc": "008118",
+  "file_name": "甲A03-45　201124 勾留執行停止の条件変更申立書",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": null,
+  "error": "unexpected content type: bool False"
+ },
+ {
+  "case": "I0000176",
+  "doc": "007700",
+  "file_name": "訴状（2026/1/13）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 9753,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000176",
+  "doc": "007775",
+  "file_name": " 甲006-01 支出命令（R7.7）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 8712,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000176",
+  "doc": "007793",
+  "file_name": "甲005　研修委託契約書",
+  "material_category": "1",
+  "has_text": false,
+  "len": 0,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000178",
+  "doc": "008148",
+  "file_name": "証拠説明書C2 甲C4-6 (2025.10)",
+  "material_category": "1",
+  "has_text": true,
+  "len": 800,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000178",
+  "doc": "008149",
+  "file_name": "甲C4-6",
+  "material_category": "1",
+  "has_text": true,
+  "len": 117760,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000178",
+  "doc": "008169",
+  "file_name": "訴状（2025.4.11）",
+  "material_category": "1",
+  "has_text": false,
+  "len": 1276,
+  "is_extracted": false,
+  "error": ""
+ },
+ {
+  "case": "I0000179",
+  "doc": "008277",
+  "file_name": "陳述書（原告ショイマン）",
+  "material_category": "1",
+  "has_text": true,
+  "len": 5905,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000179",
+  "doc": "008268",
+  "file_name": "訴状",
+  "material_category": "1",
+  "has_text": true,
+  "len": 373207,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000182",
+  "doc": "008584",
+  "file_name": "【中林訴訟】原告意見陳述20260902",
+  "material_category": "1",
+  "has_text": true,
+  "len": 1621,
+  "is_extracted": true,
+  "error": ""
+ },
+ {
+  "case": "I0000182",
+  "doc": "008581",
+  "file_name": "【中林訴訟】甲第９号証20260612",
+  "material_category": "1",
+  "has_text": true,
+  "len": 15972,
+  "is_extracted": true,
+  "error": ""
+ }
+]
