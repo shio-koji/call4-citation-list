@@ -1,0 +1,10 @@
+# CALL4 APIから取得した生データ。スクリプトで再生成できるのでバージョン管理しない。
+# 特に cache/pdf は 300MB を超える。
+cache/
+
+# OCR検証の作業ファイル
+work/
+
+.DS_Store
+__pycache__/
+*.pyc
