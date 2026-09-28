@@ -13,7 +13,12 @@ DOCS = os.path.join(HERE, "docs"); os.makedirs(DOCS, exist_ok=True)
 CV = "執筆者の業績（引用ではない）"
 CASE_URL = "https://www.call4.jp/info.php?type=items&id="
 
-rows = json.load(open(os.path.join(HERE, "out_citations.json")))
+# 名寄せ済みの著作単位（14_normalize_works.py の出力）を使う。
+# タイトルだけでまとめると同名異書が混ざるため。
+works = json.load(open(os.path.join(HERE, "out_works.json")))
+cvrows = [r for r in json.load(open(os.path.join(HERE, "out_citations.json")))
+          if r["kind"] == CV]
+rows = works + cvrows
 survey = {r["id"]: r for r in json.load(open(os.path.join(HERE, "out_survey.json")))}
 cases_all = {c["id"]: c for c in
              json.load(open(os.path.join(HERE, "cache", "cases_list.json")))["cases"]}
@@ -30,12 +35,19 @@ for r in real:
     for c in r["出現ケース"]:
         bycase[c] += 1
 seen_cases = sorted(bycase, key=lambda c: -bycase[c])
-n_doc_read = len({r["doc"] for r in rows})
 n_doc_all = sum(s["n"] for s in survey.values())
 
-# 複数のケースにまたがって引用されている文献＝分野を越えて参照されている定番
-cross = sorted([r for r in real if len(r["出現ケース"]) > 1],
-               key=lambda r: (-len(r["出現ケース"]), -r["出現回数"]))[:20]
+# 複数のケースで引用された文献。主題タグが重ならないケース同士のものは
+# 「分野を越えた」と言えるので、そこを区別して出す。
+import itertools
+_tag = lambda c: {t for t in cases_all.get(c, {}).get("tags", []) if t != "アーカイブ"}
+allcross = sorted([r for r in real if len(r["出現ケース"]) > 1],
+                  key=lambda r: (-len(r["出現ケース"]), -r["出現回数"]))
+def _across(r):
+    return any(not (_tag(a) & _tag(b))
+               for a, b in itertools.combinations(r["出現ケース"], 2))
+n_cross, n_across = len(allcross), len([r for r in allcross if _across(r)])
+cross = allcross[:20]
 
 TILES = [("対象ケース", len(cases_all), "件"),
          ("読み込んだ訴訟資料", n_doc_all, "件"),
@@ -57,7 +69,9 @@ tiles_html = "\n".join(
 
 cross_html = "\n".join(
     f'<li><span class="cx-n">{len(r["出現ケース"])}<span class="cx-u">ケース</span></span>'
-    f'<span class="cx-t">{html.escape(cite_text(r))}</span></li>' for r in cross)
+    f'<span class="cx-t">{html.escape(cite_text(r))}'
+    + ('<span class="badge">分野を越えて</span>' if _across(r) else '')
+    + '</span></li>' for r in cross)
 
 rank_html = "\n".join(
     f'<li><a href="#" data-case="{c}">{html.escape(cases_all[c]["title"])}</a>'
@@ -123,6 +137,8 @@ section {{ margin:0 0 34px; }}
 .cross li:last-child {{ border-bottom:0; }}
 .cx-n {{ flex:0 0 66px; color:var(--accent); font-weight:650; font-variant-numeric:tabular-nums; }}
 .cx-u {{ font-size:11.5px; font-weight:400; color:var(--ink3); margin-left:2px; }}
+.badge {{ display:inline-block; margin-left:8px; padding:0 7px; border-radius:999px;
+  font-size:11px; background:var(--accent-soft); color:var(--accent); vertical-align:1px; }}
 details.cases > summary {{ cursor:pointer; color:var(--ink3); font-size:13px;
   font-weight:600; letter-spacing:.04em; }}
 .cases ol {{ margin:10px 0 0; padding:0; list-style:none; counter-reset:c;
@@ -175,8 +191,14 @@ footer a {{ color:var(--ink2); }}
 <div class="tiles">{tiles_html}</div>
 
 <section>
-<h2>分野を越えて引用されている文献</h2>
-<p class="sub" style="margin-bottom:12px;font-size:13.5px">複数の訴訟で引用された文献です。件数はケース数。</p>
+<h2>複数の訴訟で引用されている文献</h2>
+<p class="sub" style="margin-bottom:12px;font-size:13.5px">
+{n_cross}件の文献が2つ以上の訴訟で引用されています。うち{n_across}件は、
+<b>主題がまったく重ならない訴訟</b>にまたがって引用されているもので
+<span class="badge">分野を越えて</span>を付けました。
+共有の多くは同性婚訴訟のように同じ争点を争うケース同士ですが、
+分野をまたぐものはほぼすべて憲法の体系書・注釈書です。
+<a href="https://github.com/shio-koji/call4-citation-list/blob/main/%E4%B8%AD%E9%96%93%E5%A0%B1%E5%91%8A05_%E8%A4%87%E6%95%B0%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%A7%E5%BC%95%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E6%96%87%E7%8C%AE.md">調査の詳細</a></p>
 <ol class="cross">{cross_html}</ol>
 </section>
 
