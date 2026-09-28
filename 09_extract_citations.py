@@ -131,7 +131,10 @@ def spans_for(text):
         # 著者らしき部分と、出典（出版社・年・頁）を分けて取る
         author = clean_author(head)
         sm = re.search(r"^[^。]{0,60}?(?:頁|ページ|\))", tail)
-        source = (sm.group(0) if sm else tail[:40]).strip(" 、,。")
+        # 参考文献リストでは次の文献が続けて書かれるので、そこで切る
+        source = sm.group(0) if sm else re.split(r"[。\n]", tail)[0][:44]
+        source = re.split(r"(?:\s-\s|―――|、\d{4}『|\s\d{4}『)", source)[0]
+        source = source.strip(" 、,。・-")
         out.append((kind, title, ctx, author, source, m.group(0)[0]))
     for m in EN_CITE.finditer(text):
         s = re.sub(r"\s+", " ", m.group(0)).strip()
