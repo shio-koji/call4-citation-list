@@ -15,7 +15,11 @@
 import json, os, re, collections, csv, unicodedata
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-TARGETS = ["I0000090", "I0000111", "I0000120", "I0000159"]
+# 引数でケースIDを渡せば絞り込める。渡さなければ全ケースが対象。
+import sys
+_args = [a for a in sys.argv[1:] if a.startswith("I")]
+TARGETS = _args or sorted(
+    f[5:-5] for f in os.listdir(os.path.join(HERE, "cache")) if f.startswith("docs_"))
 
 JOURNALS = ["ジュリスト", "法律時報", "法学教室", "法学セミナー", "法曹時報", "曹時",
             "民商法雑誌", "法学協会雑誌", "国家学会雑誌", "法学論叢", "法学研究",
@@ -137,10 +141,16 @@ def spans_for(text):
     return out
 
 
+pdf_urls = {}
+_pu = os.path.join(HERE, "cache", "pdf_urls.json")
+if os.path.exists(_pu):
+    pdf_urls = json.load(open(_pu))
+
 docs_meta = {}
 for cid in TARGETS:
     for d in json.load(open(os.path.join(HERE, "cache", f"docs_{cid}.json")))["documents"]:
         docs_meta[d["id"]] = (cid, d.get("file_name", ""))
+        _ = d
 cases = {c["id"]: c["title"] for c in
          json.load(open(os.path.join(HERE, "cache", "cases_list.json")))["cases"]}
 
@@ -158,7 +168,7 @@ for doc_id, (cid, fname) in sorted(docs_meta.items()):
         found.append({"case": cid, "case_title": cases.get(cid, ""), "doc": doc_id,
                       "doc_name": fname, "kind": kind, "title": title,
                       "author": author, "source": source, "context": ctx,
-                      "bracket": br})
+                      "bracket": br, "pdf": pdf_urls.get(doc_id, "")})
 
 groups = collections.defaultdict(list)
 for r in found:
@@ -189,6 +199,8 @@ print(f"引用 のべ {len(found)}件 → 重複をまとめて {len(merged)}件
 for k, n in collections.Counter(r["kind"] for r in merged).most_common():
     print(f"  {k}: {n}件")
 print()
+if os.environ.get("QUIET"):
+    raise SystemExit(0)
 cur = None
 for r in merged:
     if r["kind"] != cur:
