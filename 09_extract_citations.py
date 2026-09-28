@@ -173,6 +173,9 @@ for doc_id, (cid, fname) in sorted(docs_meta.items()):
                       "author": author, "source": source, "context": ctx,
                       "bracket": br, "pdf": pdf_urls.get(doc_id, "")})
 
+json.dump(found, open(os.path.join(HERE, "out_citations_raw.json"), "w"),
+          ensure_ascii=False)   # まとめる前の1件ずつの検出結果（調査用）
+
 groups = collections.defaultdict(list)
 for r in found:
     groups[r["title"][:30]].append(r)
